@@ -16,7 +16,7 @@ h1{
   margin-top: 100px;
   
   font-family: 'Sacramento', cursive;
- 
+ color:#3330E4;
   display:inline-block;
 }
 .mhe{
@@ -25,6 +25,7 @@ h1{
 h2{
   font-size: 2rem;
   font-family: 'Rubik Moonrocks', cursive;
+  color:#3330E4;
 }
 body{
   background: linear-gradient(gold,#f69d3c, #3f87a6,brown);
@@ -40,6 +41,7 @@ body{
   margin-right:100px;
 }
 .intro{
+  color:#3330E4;
   display: inline;
 }
 .after-intro{
