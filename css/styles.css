@@ -1,0 +1,172 @@
+.top-cloud{
+  position:absolute;
+  top:280px;
+  right:400px;
+  
+}
+.bottom-cloud{
+  position:absolute;
+  left:320px;
+  top:395px;
+}
+.mbody{
+  text-align: center;
+}
+h1{
+  margin-top: 100px;
+  
+  font-family: 'Sacramento', cursive;
+ 
+  display:inline-block;
+}
+.mhe{
+  font-size: 5.625rem;
+}
+h2{
+  font-size: 2rem;
+  font-family: 'Rubik Moonrocks', cursive;
+}
+body{
+  background: linear-gradient(gold,#f69d3c, #3f87a6,brown);
+  color:#66BFBF;
+}
+.pro{
+
+  text-decoration: red underline;
+}
+.imgself{
+  width:302px;
+  height:403px;
+  margin-right:100px;
+}
+.intro{
+  display: inline;
+}
+.after-intro{
+  border-style: none;
+  border-top-style:dotted;
+  width:10%;
+  border-width:10px;
+}
+.img-skill{
+  display: flex;
+  align-items: left;
+  margin-left: 200px;
+  text-align: left;
+  float:left;
+  border-radius:20% ;
+width:400px;
+height:286.32px
+
+
+}
+.skill-row{
+  margin-bottom: 110px;
+}
+.aboutme{
+  line-height: 2;
+  font-size: 1.15rem;
+}
+.sk2
+{
+  width:400px;
+  border-radius: 20%;
+  height: 266.67px;
+  display: flex;
+  align-items: right;
+  margin-right: 200px;
+  text-align: left;
+  float:right;
+  margin-bottom: 100px;
+}
+.intro2{
+  margin-bottom: 50px;
+  
+  line-height: 2;
+  font-size: 1.15rem;
+
+}
+.end{
+  border-style: none;
+  border-top-style: dotted;
+  color: magenta;
+  width:10%;
+  border-width: 10px;
+}
+.btn {
+  background: #FEB139;
+  background-image: -webkit-linear-gradient(top, #FEB139, #2980b9);
+  background-image: -moz-linear-gradient(top, #FEB139, #2980b9);
+  background-image: -ms-linear-gradient(top, #FEB139, #2980b9);
+  background-image: -o-linear-gradient(top, #FEB139, #2980b9);
+  background-image: linear-gradient(to bottom, #FEB139, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #F7EC09;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  border: solid #FEB139 2px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #1dedb5;
+  background-image: -webkit-linear-gradient(top, #1dedb5, #45d90f);
+  background-image: -moz-linear-gradient(top, #1dedb5, #45d90f);
+  background-image: -ms-linear-gradient(top, #1dedb5, #45d90f);
+  background-image: -o-linear-gradient(top, #1dedb5, #45d90f);
+  background-image: linear-gradient(to bottom, #1dedb5, #45d90f);
+  text-decoration: none;
+}
+.contact-me{
+  display: inline-block;
+  position: relative;
+  bottom:400px;
+}
+.bottom-container{
+  display: inline-block;
+}
+.monkeycoder{
+  display: flex;
+  align-items: left;
+  margin-left:80px;
+  text-align: left;
+  height:196.88px;
+  width: 350px;
+  border-radius: 30%;
+}
+.dogcomder{
+  position: relative;
+  display: inline;
+  left: 1050px;
+  bottom:510px;
+  display: flex;
+  align-items: right;
+  /* margin-right:100px; */
+  text-align: right;
+  height:253.44px;
+  width: 350px;
+  border-radius: 30%;
+}
+.catcomder{
+  text-align: center;
+  display: flex;
+  align-items: center;
+  margin-left:525px;
+  position: relative;
+  bottom:150px;
+  left:50px;
+  height:313.8px;
+  width: 250px;
+  border-radius: 30%;
+}
+.bottom-container{
+  position: relative;
+  bottom:400px;
+}
+.i8{
+background-image: url("https://previews.123rf.com/images/jagcz/jagcz1409/jagcz140900025/31436647-autumn-scenery-with-trees-in-sunshine.jpg");
+background-size: cover;
+}
