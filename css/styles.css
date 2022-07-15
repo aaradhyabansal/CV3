@@ -177,3 +177,9 @@ height:286.32px
 background-image: url("https://previews.123rf.com/images/jagcz/jagcz1409/jagcz140900025/31436647-autumn-scenery-with-trees-in-sunshine.jpg");
 background-size: cover;
 }
+a:hover{
+  color: white;
+}
+a{
+  color:brown;
+}
