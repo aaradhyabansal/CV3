@@ -30,6 +30,7 @@ h2{
 body{
   background: linear-gradient(gold,#f69d3c, #3f87a6,brown);
   color:#3330E4;
+  margin:none;
 }
 .pro{
 
@@ -165,8 +166,12 @@ height:286.32px
   border-radius: 30%;
 }
 .bottom-container{
+  display: block;
   position: relative;
   bottom:400px;
+  background-color: #3AB4F2;
+  color:#EB4747;
+  padding: 40px 0px 60px;
 }
 .i8{
 background-image: url("https://previews.123rf.com/images/jagcz/jagcz1409/jagcz140900025/31436647-autumn-scenery-with-trees-in-sunshine.jpg");
